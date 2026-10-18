@@ -16,7 +16,7 @@
 ```
 
 <a href="https://www.linkedin.com/in/mustafa-g%C3%BCl-aa840b299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gameeetv@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mustafagul@mail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/universalnewstime"><img src="https://img.shields.io/badge/World_News-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://bayraktargazetesi.com"><img src="https://img.shields.io/badge/Bayraktar_Gazetesi-C8102E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
